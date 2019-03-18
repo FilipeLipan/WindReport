@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <dimen name="medium_spacing">12dp</dimen>
+    <dimen name="small_spacing">6dp</dimen>
+    <dimen name="title_size">28sp</dimen>
+</resources>
